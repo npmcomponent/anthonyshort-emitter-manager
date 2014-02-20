@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [anthonyshort/emitter-manager](http://github.com/anthonyshort/emitter-manager). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/anthonyshort-emitter-manager`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # emitter-manager
 
 Manager for component-emitter to easily add or remove events from groups of objects. This

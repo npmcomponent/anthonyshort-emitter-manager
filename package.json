@@ -1,0 +1,10 @@
+{
+  "name": "anthonyshort-emitter-manager",
+  "description": "Inverse event binding for component-emitter",
+  "version": "0.3.0",
+  "keywords": [],
+  "dependencies": {
+    "anthonyshort-map": "git://github.com/npmcomponent/anthonyshort-map.git"
+  },
+  "license": "MIT"
+}

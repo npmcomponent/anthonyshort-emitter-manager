@@ -1,4 +1,4 @@
-var HashMap = require('map');
+var HashMap = require('anthonyshort-map');
 
 function mixin(obj) {
   obj._eventManager = new Manager();
